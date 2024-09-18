@@ -1,0 +1,1 @@
+mi sono bloccato al livello 26, non capito bene il Selettore ":not()" 
